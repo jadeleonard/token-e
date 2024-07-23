@@ -9,7 +9,7 @@
   },
   "url":"https://github.com/jadeleonard/token-e.git",
   "name": "token-ui",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "library elements for AsuraJs",
   "main": "dist/token-ui.js",
   "types": "dist/token-ui.d.ts",
