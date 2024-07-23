@@ -9,7 +9,7 @@
   },
   "url":"https://github.com/jadeleonard/token-e.git",
   "name": "token-ui",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "library elements for AsuraJs",
   "main": "dist/token-ui.js",
   "types": "dist/token-ui.d.ts",
@@ -104,7 +104,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --config ./webpack.config.js"
+    "build": "webpack --mode production"
   },
   "keywords": [
     "typescript",
