@@ -7,8 +7,9 @@
     "webpack": "^5.93.0",
     "webpack-cli": "^5.1.4"
   },
+  "url":"https://github.com/jadeleonard/token-e.git",
   "name": "token-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "library elements for AsuraJs",
   "main": "dist/token-ui.js",
   "types": "dist/token-ui.d.ts",
